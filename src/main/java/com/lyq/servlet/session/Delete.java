@@ -5,5 +5,4 @@ public class Delete {
         System.out.println("test...");
     }
 
-
 }
